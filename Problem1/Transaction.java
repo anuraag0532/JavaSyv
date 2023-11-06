@@ -1,3 +1,5 @@
+package Problem1;
+
 public class Transaction {
     String debtor;
     String creditor;
